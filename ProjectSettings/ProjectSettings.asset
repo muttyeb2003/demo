@@ -750,10 +750,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: db426775-4b7f-4cca-8a49-c00283874f2e
+  cloudProjectId: bcff1110-ebc0-44f6-907b-dd4d4a3d81df
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Demo
+  projectName: demo
   organizationId: muttyeb2003
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
